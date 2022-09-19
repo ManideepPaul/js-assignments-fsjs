@@ -68,9 +68,6 @@ function getInputValue() {
 
     // Clearing the input space
     document.querySelector("#text").value = "";
-
-    // console.log(input)
-    // return input;
 }
 
 
